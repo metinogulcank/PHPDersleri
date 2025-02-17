@@ -3,6 +3,7 @@
 Bu depo, PHP öğrenme sürecimde yazdığım kodları içermektedir. Farklı PHP konularını deneyerek öğrendiğim temel kavramları pratik etme amacı taşır.
 
 📂 İçerik
+
 Depoda yer alan kodlar, PHP'nin temel özelliklerini keşfetmek için hazırlanmıştır. İçerik şu konuları kapsayabilir:
 
 Değişkenler ve Veri Tipleri
@@ -15,6 +16,7 @@ Dosya Okuma/Yazma
 Basit Veritabanı İşlemleri 
 
 🚀 Kurulum ve Çalıştırma
+
 PHP'nin yüklü olduğundan emin olun. (Önerilen: PHP 7.4 veya üstü)
 Depoyu klonlayın:
 
