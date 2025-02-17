@@ -1,4 +1,5 @@
 📌 PHP Öğrenme Notları
+
 Bu depo, PHP öğrenme sürecimde yazdığım kodları içermektedir. Farklı PHP konularını deneyerek öğrendiğim temel kavramları pratik etme amacı taşır.
 
 📂 İçerik
